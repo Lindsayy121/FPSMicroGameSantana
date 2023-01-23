@@ -5293,75 +5293,75 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c996b53e9f849234393d1e90f68d1679, type: 3}
---- !u!1001 &7777676362381573999
+--- !u!1001 &4742200113109717893
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 4921288909703259152, guid: ec86802bcfb46ae4eb77b3a258f03818,
-        type: 3}
-      propertyPath: m_Name
-      value: Weapon_BurstRifle
-      objectReference: {fileID: 0}
-    - target: {fileID: 6369797737101988360, guid: ec86802bcfb46ae4eb77b3a258f03818,
+    - target: {fileID: 2814754711768685954, guid: c8bcda394c7f2584f89900dc1f7ce768,
         type: 3}
       propertyPath: m_RootOrder
       value: 24
       objectReference: {fileID: 0}
-    - target: {fileID: 6369797737101988360, guid: ec86802bcfb46ae4eb77b3a258f03818,
+    - target: {fileID: 2814754711768685954, guid: c8bcda394c7f2584f89900dc1f7ce768,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 3.8800955
+      value: 3.3562791
       objectReference: {fileID: 0}
-    - target: {fileID: 6369797737101988360, guid: ec86802bcfb46ae4eb77b3a258f03818,
+    - target: {fileID: 2814754711768685954, guid: c8bcda394c7f2584f89900dc1f7ce768,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.64783216
+      value: 0.68578166
       objectReference: {fileID: 0}
-    - target: {fileID: 6369797737101988360, guid: ec86802bcfb46ae4eb77b3a258f03818,
+    - target: {fileID: 2814754711768685954, guid: c8bcda394c7f2584f89900dc1f7ce768,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 5.479349
+      value: 6.038783
       objectReference: {fileID: 0}
-    - target: {fileID: 6369797737101988360, guid: ec86802bcfb46ae4eb77b3a258f03818,
+    - target: {fileID: 2814754711768685954, guid: c8bcda394c7f2584f89900dc1f7ce768,
         type: 3}
       propertyPath: m_LocalRotation.w
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 6369797737101988360, guid: ec86802bcfb46ae4eb77b3a258f03818,
+    - target: {fileID: 2814754711768685954, guid: c8bcda394c7f2584f89900dc1f7ce768,
         type: 3}
       propertyPath: m_LocalRotation.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6369797737101988360, guid: ec86802bcfb46ae4eb77b3a258f03818,
+    - target: {fileID: 2814754711768685954, guid: c8bcda394c7f2584f89900dc1f7ce768,
         type: 3}
       propertyPath: m_LocalRotation.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6369797737101988360, guid: ec86802bcfb46ae4eb77b3a258f03818,
+    - target: {fileID: 2814754711768685954, guid: c8bcda394c7f2584f89900dc1f7ce768,
         type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6369797737101988360, guid: ec86802bcfb46ae4eb77b3a258f03818,
+    - target: {fileID: 2814754711768685954, guid: c8bcda394c7f2584f89900dc1f7ce768,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6369797737101988360, guid: ec86802bcfb46ae4eb77b3a258f03818,
+    - target: {fileID: 2814754711768685954, guid: c8bcda394c7f2584f89900dc1f7ce768,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6369797737101988360, guid: ec86802bcfb46ae4eb77b3a258f03818,
+    - target: {fileID: 2814754711768685954, guid: c8bcda394c7f2584f89900dc1f7ce768,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5039751426478680960, guid: c8bcda394c7f2584f89900dc1f7ce768,
+        type: 3}
+      propertyPath: m_Name
+      value: Weapon_BurstRifle
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: ec86802bcfb46ae4eb77b3a258f03818, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: c8bcda394c7f2584f89900dc1f7ce768, type: 3}
 --- !u!1001 &9217268748774167426
 PrefabInstance:
   m_ObjectHideFlags: 0
